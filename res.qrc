@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>picture/设 置.png</file>
+        <file>picture/exit.png</file>
+        <file>picture/connected.png</file>
+        <file>picture/disconnected.png</file>
+    </qresource>
+</RCC>
