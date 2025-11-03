@@ -1,1 +1,2 @@
 # textile_defect_detect
+具体文件以及该项目说明请看该目录下的project.md文件
